@@ -12,6 +12,7 @@
 @import "site/off-canvas.css";
 @import "site/footer.css";
 @import "site/error.css";
+@import "home/home.css";
 @import "blog/post.css";
 @import "blog/page.css";
 @import "blog/featured.css";
